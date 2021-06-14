@@ -1,0 +1,59 @@
+<app-menu></app-menu>
+<div class="spinner" fxLayoutAlign="center center">
+    <mat-spinner *ngIf="wait"></mat-spinner>
+</div>
+<div class="container">
+    <div fxLayout="row" *ngIf="!wait">
+        <div fxLayout="column" class="cards" fxFlex="60">
+            <mat-card *ngFor="let item of pagedList" class="mat-elevation-z8">
+                <mat-card-header>
+                    <mat-card-title>
+                        <a [routerLink]="['/deaths', item._id]">
+                            {{item.covid19}}
+                        </a>
+                    </mat-card-title>
+                </mat-card-header>
+                <mat-card-content>
+                    <div fxLayout="row" fxLayoutAlign="space-around start">
+                        <div>
+                            <fa-icon [icon]="faBothGenders" size="2x" *ngIf="item.sexo == 'Total'"></fa-icon>
+                            <fa-icon [icon]="faFemale" size="2x" *ngIf="item.sexo == 'Mujeres'"></fa-icon>
+                            <fa-icon [icon]="faMale" size="2x" *ngIf="item.sexo == 'Hombres'"></fa-icon>
+                            <span>{{item.sexo}}</span>
+                        </div>
+                        <div>
+                            <fa-icon [icon]="faBirthday" size="2x"></fa-icon>
+                            <span>{{item.edad}}</span>
+                        </div>
+                        <div>
+                            <fa-icon [icon]="faCalendar" size="2x"></fa-icon>
+                            <span>{{item.mes_defuncion}} 2020</span>
+                        </div>
+                        <div>
+                            <fa-icon [icon]="faDeath" size="2x"></fa-icon>
+                            <span>{{item.total | replaceNullWithText: 'No definido' }}</span>
+                        </div>
+                    </div>
+                </mat-card-content>
+            </mat-card>
+        </div>
+        <div class="graphics-container" fxLayout="column" fxFlex="40" fxLayoutAlign="center center">
+            <div fxLayout="row">
+                <a routerLink="/deaths/gender/hombres">
+                    <fa-icon [icon]="faMale" size="5x" style="color:lightskyblue"></fa-icon>
+                </a>
+                <a routerLink="/deaths/gender/mujeres">
+                    <fa-icon [icon]="faFemale" size="5x" style="color:pink"></fa-icon>
+                </a>
+            </div>
+            <canvas baseChart [data]="pieChartData" [labels]="pieChartLabels" [chartType]="pieChartType"
+                [options]="pieChartOptions" [plugins]="pieChartPlugins" [legend]="pieChartLegend">
+            </canvas>
+        </div>
+    </div>
+
+    <div class="paginator" fxLayoutAlign="center">
+        <mat-paginator [length]="length" [pageSize]="4" (page)="onPageChange($event)">
+        </mat-paginator>
+    </div>
+</div>

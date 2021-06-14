@@ -1,0 +1,84 @@
+@import '~@angular/material/theming';
+@include mat-core();
+
+/* ======== Angular material custom themes ======== */  
+
+$my-custom-primary: mat-palette($mat-green);
+$my-custom-accent: mat-palette($mat-lime, 100, 500, A100);
+$my-custom-warn: mat-palette($mat-red);
+
+$my-custom-theme: mat-light-theme($my-custom-primary, $my-custom-accent, $my-custom-warn);
+
+@include angular-material-theme($my-custom-theme);
+
+/* ======== Other SCSS  ======== */  
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.container {
+    margin: 50px;
+}
+
+.mat-elevation-z8 {
+    box-shadow: 0px 5px 5px -3px rgb(76 175 80 / 20%), 0px 8px 10px 1px rgb(76 175 80 / 14%), 0px 3px 14px 2px rgb(76 175 80 / 12%);
+}
+
+.spinner {
+    margin-top: 20px;
+}
+
+a {
+    color: #4caf50;
+}
+
+.snackbar {
+    background-color: #9ded8e;
+    color: black;
+}
+
+.snackbar-delete {
+    background-color: #ff7c91;
+    color: black
+}
+
+.mat-raised-button.mat-primary {
+    color: white;
+}
+
+.mat-card-header{
+    background-color:#9ded8e !important;
+    padding:20px !important;
+  }
+  
+   .mat-card{
+    padding:0 !important;
+  }
+  
+  .mat-card-content{
+    padding:20px !important;
+  }
+
+  a {
+   text-decoration: none;   
+  }
+
+  .mat-card-title{
+    margin: 0 !important;
+}
+
+.mat-header-cell {
+    background-color: #4caf50;
+    color: white;
+  }
+  .mat-row:nth-child(n + 1) {
+    background-color: #e4fae0;
+  }
+  
+  .mat-row:not(:nth-child(2n)) {
+    background-color: #e4e893;
+  }
+
+  .mat-expansion-panel-body {
+    padding: 20px!important;
+}

@@ -1,0 +1,7777 @@
+[{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf969f"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 231.014
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96a0"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 6.263
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96a1"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 4.332
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96a2"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 6.768
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96a3"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 9.431
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96a4"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 12.22
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96a5"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 17.855
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96a6"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 24.707
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96a7"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 35.092
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96a8"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 51.588
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96a9"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 42.23
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96aa"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 20.528
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ab"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 115.541
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ac"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 3.946
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ad"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 2.855
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ae"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 4.445
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96af"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 6.382
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96b0"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 8.384
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96b1"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 11.807
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96b2"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 15.291
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96b3"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 18.672
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96b4"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 23.196
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96b5"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 15.244
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96b6"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 5.319
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96b7"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 115.473
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96b8"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 2.317
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96b9"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 1.477
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ba"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 2.323
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96bb"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 3.049
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96bc"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 3.836
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96bd"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 6.048
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96be"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 9.416
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96bf"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 16.42
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96c0"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 28.392
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96c1"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 26.986
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96c2"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 15.209
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96c3"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 42.681
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96c4"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 1.383
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96c5"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 919
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96c6"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 1.354
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96c7"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 1.813
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96c8"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 2.345
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96c9"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 3.272
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ca"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 4.427
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96cb"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 6.283
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96cc"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 9.505
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96cd"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 7.574
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ce"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 3.806
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96cf"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 21.317
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96d0"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 876
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96d1"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 600
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96d2"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 906
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96d3"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 1.241
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96d4"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 1.607
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96d5"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 2.138
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96d6"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 2.687
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96d7"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 3.32
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96d8"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 4.198
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96d9"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 2.737
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96da"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 1.007
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96db"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 21.364
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96dc"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 507
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96dd"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 319
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96de"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 448
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96df"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 572
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96e0"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 738
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96e1"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 1.134
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96e2"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 1.74
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96e3"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 2.963
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96e4"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 5.307
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96e5"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 4.837
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96e6"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 2.799
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96e7"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 36.103
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96e8"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 1.198
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96e9"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 769
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ea"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 1.211
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96eb"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 1.614
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ec"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 2.015
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ed"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 2.773
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ee"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 3.742
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ef"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 5.351
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96f0"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 7.722
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96f1"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 6.583
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96f2"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 3.125
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96f3"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 18.101
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96f4"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 762
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96f5"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 509
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96f6"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 807
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96f7"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 1.08
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96f8"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 1.384
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96f9"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 1.845
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96fa"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 2.297
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96fb"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 2.797
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96fc"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 3.463
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96fd"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 2.368
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96fe"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 789
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf96ff"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 18.002
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9700"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 436
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9701"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 260
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9702"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 404
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9703"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 534
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9704"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 631
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9705"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 928
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9706"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 1.445
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9707"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 2.554
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9708"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 4.259
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9709"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 4.215
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf970a"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 2.336
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf970b"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 57.531
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf970c"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 1.374
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf970d"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 979
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf970e"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 1.53
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf970f"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 2.24
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9710"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 3.038
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9711"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 4.713
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9712"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 6.804
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9713"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 9.229
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9714"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 12.913
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9715"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 9.942
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9716"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 4.769
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9717"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 30.219
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9718"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 844
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9719"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 646
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf971a"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 996
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf971b"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 1.505
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf971c"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 2.122
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf971d"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 3.185
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf971e"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 4.372
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf971f"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 5.187
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9720"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 6.18
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9721"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 3.831
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9722"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 1.351
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9723"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 27.312
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9724"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 530
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9725"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 333
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9726"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 534
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9727"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 735
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9728"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 916
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9729"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 1.528
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf972a"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 2.432
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf972b"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 4.042
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf972c"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 6.733
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf972d"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 6.111
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf972e"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 3.418
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf972f"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 60.304
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9730"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 1.205
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9731"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 875
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9732"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 1.481
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9733"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 2.12
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9734"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 2.803
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9735"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 4.324
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9736"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 6.124
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9737"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 9.257
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9738"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 14.078
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9739"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 12.034
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf973a"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 6.003
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf973b"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 28.86
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf973c"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 782
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf973d"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 594
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf973e"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 955
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf973f"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 1.448
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9740"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 1.92
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9741"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 2.813
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9742"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 3.751
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9743"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 4.752
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9744"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 6.13
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9745"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 4.215
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9746"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 1.5
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9747"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 31.444
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9748"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 423
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9749"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 281
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf974a"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 526
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf974b"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 672
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf974c"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 883
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf974d"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 1.511
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf974e"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 2.373
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf974f"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 4.505
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9750"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 7.948
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9751"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 7.819
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9752"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 4.503
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9753"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 34.395
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9754"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 1.103
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9755"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 790
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9756"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 1.192
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9757"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 1.644
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9758"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 2.019
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9759"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 2.773
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf975a"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 3.61
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf975b"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 4.972
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf975c"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 7.37
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf975d"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 6.097
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf975e"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 2.825
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf975f"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 17.044
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9760"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 682
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9761"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 506
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9762"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 781
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9763"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 1.108
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9764"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 1.351
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9765"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 1.826
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9766"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 2.184
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9767"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 2.616
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9768"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 3.225
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9769"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 2.093
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf976a"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 672
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf976b"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 17.351
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf976c"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 421
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf976d"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 284
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf976e"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 411
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf976f"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 536
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9770"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 668
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9771"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 947
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9772"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 1.426
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9773"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 2.356
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9774"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 4.145
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9775"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 4.004
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9776"
+  },
+  "covid19": "Total",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 2.153
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9777"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 32.652
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9778"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 372
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9779"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 341
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf977a"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 641
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf977b"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 1.112
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf977c"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 1.716
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf977d"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 2.91
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf977e"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 4.367
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf977f"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 5.765
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9780"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 7.6
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9781"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 5.544
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9782"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 2.284
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9783"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 17.688
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9784"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 240
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9785"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 237
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9786"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 435
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9787"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 822
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9788"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 1.213
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9789"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 1.993
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf978a"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 2.887
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf978b"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 3.341
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf978c"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 3.742
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf978d"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 2.127
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf978e"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 651
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf978f"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 14.964
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9790"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 132
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9791"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 104
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9792"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 206
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9793"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 290
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9794"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 503
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9795"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 917
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9796"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 1.48
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9797"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 2.424
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9798"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 3.858
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9799"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 3.417
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf979a"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 1.633
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf979b"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf979c"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf979d"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf979e"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf979f"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97a0"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97a1"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97a2"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97a3"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97a4"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97a5"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97a6"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97a7"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97a8"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97a9"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97aa"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ab"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ac"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ad"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ae"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97af"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97b0"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97b1"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97b2"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97b3"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97b4"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97b5"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97b6"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97b7"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97b8"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97b9"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ba"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97bb"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97bc"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97bd"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97be"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97bf"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97c0"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97c1"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97c2"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97c3"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97c4"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97c5"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97c6"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97c7"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97c8"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97c9"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ca"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97cb"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97cc"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97cd"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ce"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97cf"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97d0"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97d1"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97d2"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97d3"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97d4"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97d5"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97d6"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97d7"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97d8"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97d9"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97da"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97db"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97dc"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97dd"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97de"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97df"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97e0"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97e1"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97e2"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97e3"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 11.278
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97e4"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 146
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97e5"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 111
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97e6"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 219
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97e7"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 383
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97e8"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 622
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97e9"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 1.2
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ea"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 1.958
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97eb"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 2.27
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ec"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 2.5
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ed"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 1.395
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ee"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 474
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ef"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 6.891
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97f0"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 93
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97f1"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 72
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97f2"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 142
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97f3"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 283
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97f4"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 432
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97f5"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 843
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97f6"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 1.357
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97f7"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 1.456
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97f8"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 1.408
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97f9"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 635
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97fa"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 170
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97fb"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 4.387
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97fc"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 53
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97fd"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 39
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97fe"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 77
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf97ff"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 100
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9800"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 190
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9801"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 357
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9802"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 601
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9803"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 814
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9804"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 1.092
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9805"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 760
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9806"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 304
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9807"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 18.178
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9808"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 191
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9809"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 183
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf980a"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 345
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf980b"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 608
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf980c"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 893
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf980d"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 1.465
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf980e"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 2.1
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf980f"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 3.051
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9810"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 4.387
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9811"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 3.487
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9812"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 1.468
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9813"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 9.301
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9814"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 127
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9815"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 130
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9816"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 242
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9817"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 445
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9818"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 638
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9819"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 983
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf981a"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 1.347
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf981b"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 1.666
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf981c"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 2.028
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf981d"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 1.283
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf981e"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 412
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf981f"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 8.877
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9820"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 64
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9821"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 53
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9822"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 103
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9823"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 163
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9824"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 255
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9825"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 482
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9826"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 753
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9827"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 1.385
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9828"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 2.359
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9829"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 2.204
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf982a"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 1.056
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf982b"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 3.196
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf982c"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 35
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf982d"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 47
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf982e"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 77
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf982f"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 121
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9830"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 201
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9831"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 245
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9832"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 309
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9833"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 444
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9834"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 713
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9835"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 662
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9836"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 342
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9837"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 1.496
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9838"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 20
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9839"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 35
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf983a"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 51
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf983b"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 94
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf983c"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 143
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf983d"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 167
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf983e"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 183
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf983f"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 219
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9840"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 306
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9841"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 209
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9842"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 69
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9843"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 1.7
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9844"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 15
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9845"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 12
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9846"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 26
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9847"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 27
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9848"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 58
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9849"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 78
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf984a"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 126
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf984b"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 225
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf984c"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 407
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf984d"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 453
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf984e"
+  },
+  "covid19": "Covid-19 Virus identificado",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 273
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf984f"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 13.032
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9850"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 92
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9851"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 94
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9852"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 128
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9853"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 216
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9854"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 286
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9855"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 597
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9856"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 1.08
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9857"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 1.982
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9858"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 3.515
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9859"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 3.27
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf985a"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 1.772
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf985b"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 5.682
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf985c"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 65
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf985d"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 71
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf985e"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 87
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf985f"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 148
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9860"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 194
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9861"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 380
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9862"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 663
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9863"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 1.009
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9864"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 1.486
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9865"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 1.117
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9866"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 462
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9867"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 7.35
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9868"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 27
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9869"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 23
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf986a"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 41
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf986b"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 68
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf986c"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 92
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf986d"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 217
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf986e"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 417
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf986f"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 973
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9870"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 2.029
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9871"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 2.153
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9872"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 1.31
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9873"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9874"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9875"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9876"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9877"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9878"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9879"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf987a"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf987b"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf987c"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf987d"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf987e"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf987f"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9880"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9881"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9882"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9883"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9884"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9885"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9886"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9887"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9888"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9889"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf988a"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf988b"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf988c"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf988d"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf988e"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf988f"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9890"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9891"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9892"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9893"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9894"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9895"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9896"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9897"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9898"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9899"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf989a"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf989b"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf989c"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf989d"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf989e"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf989f"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98a0"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98a1"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98a2"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98a3"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98a4"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98a5"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98a6"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98a7"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98a8"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98a9"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98aa"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ab"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ac"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ad"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ae"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98af"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98b0"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98b1"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98b2"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98b3"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98b4"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98b5"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98b6"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98b7"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98b8"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98b9"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ba"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": null
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98bb"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 4.147
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98bc"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 34
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98bd"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 39
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98be"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 54
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98bf"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 86
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98c0"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 116
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98c1"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 237
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98c2"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 378
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98c3"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 658
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98c4"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 1.11
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98c5"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 962
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98c6"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 473
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98c7"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 2.005
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98c8"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 24
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98c9"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 29
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ca"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 44
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98cb"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 58
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98cc"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 79
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98cd"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 166
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ce"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 251
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98cf"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 367
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98d0"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 513
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98d1"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 331
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98d2"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 143
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98d3"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 2.142
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98d4"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 10
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98d5"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 10
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98d6"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 10
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98d7"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 28
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98d8"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 37
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98d9"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 71
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98da"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 127
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98db"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 291
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98dc"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 597
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98dd"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 631
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98de"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 330
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98df"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 8.127
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98e0"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 47
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98e1"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 48
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98e2"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 62
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98e3"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 110
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98e4"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 145
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98e5"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 313
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98e6"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 641
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98e7"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 1.203
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98e8"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 2.211
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98e9"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 2.136
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ea"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 1.211
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98eb"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 3.318
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ec"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 35
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ed"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 36
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ee"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 37
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ef"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 72
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98f0"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 101
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98f1"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 186
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98f2"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 375
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98f3"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 569
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98f4"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 895
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98f5"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 716
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98f6"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 296
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98f7"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 4.809
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98f8"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 12
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98f9"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 12
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98fa"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 25
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98fb"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 38
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98fc"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 44
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98fd"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 127
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98fe"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 266
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf98ff"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 634
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9900"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 1.316
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9901"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 1.42
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9902"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 915
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9903"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 758
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9904"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 11
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9905"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 7
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9906"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 12
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9907"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 20
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9908"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 25
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9909"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 47
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf990a"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 61
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf990b"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 121
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf990c"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 194
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf990d"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 172
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf990e"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 88
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf990f"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 359
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9910"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 6
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9911"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 6
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9912"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 6
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9913"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 18
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9914"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 14
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9915"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 28
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9916"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 37
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9917"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 73
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9918"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 78
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9919"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 70
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf991a"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 23
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf991b"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 399
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf991c"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 5
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf991d"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 1
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf991e"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 6
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf991f"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 2
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9920"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 11
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9921"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 19
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9922"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 24
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9923"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 48
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9924"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 116
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9925"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 102
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9926"
+  },
+  "covid19": "Covid-19 Virus no identificado (sospechoso)",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 65
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9927"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 185.33
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9928"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 5.799
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9929"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 3.897
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf992a"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 5.999
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf992b"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 8.103
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf992c"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 10.218
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf992d"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 14.348
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf992e"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 19.26
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf992f"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 27.345
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9930"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 40.473
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9931"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 33.416
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9932"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 16.472
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9933"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 92.171
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9934"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 3.641
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9935"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 2.547
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9936"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 3.923
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9937"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 5.412
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9938"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 6.977
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9939"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 9.434
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf993a"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 11.741
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf993b"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 14.322
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf993c"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 17.968
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf993d"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 12
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf993e"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 4.206
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf993f"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 93.159
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9940"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 2.158
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9941"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 1.35
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9942"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 2.076
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9943"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 2.691
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9944"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 3.241
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9945"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 4.914
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9946"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 7.519
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9947"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 13.023
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9948"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 22.505
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9949"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 21.416
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf994a"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Total",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 12.266
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf994b"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 42.681
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf994c"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 1.383
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf994d"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 919
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf994e"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 1.354
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf994f"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 1.813
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9950"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 2.345
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9951"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 3.272
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9952"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 4.427
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9953"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 6.283
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9954"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 9.505
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9955"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 7.574
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9956"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 3.806
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9957"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 21.317
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9958"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 876
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9959"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 600
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf995a"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 906
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf995b"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 1.241
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf995c"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 1.607
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf995d"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 2.138
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf995e"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 2.687
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf995f"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 3.32
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9960"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 4.198
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9961"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 2.737
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9962"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 1.007
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9963"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 21.364
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9964"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 507
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9965"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 319
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9966"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 448
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9967"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 572
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9968"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 738
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9969"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 1.134
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf996a"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 1.74
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf996b"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 2.963
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf996c"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 5.307
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf996d"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 4.837
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf996e"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Enero",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 2.799
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf996f"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 36.103
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9970"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 1.198
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9971"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 769
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9972"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 1.211
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9973"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 1.614
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9974"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 2.015
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9975"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 2.773
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9976"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 3.742
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9977"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 5.351
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9978"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 7.722
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9979"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 6.583
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf997a"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 3.125
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf997b"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 18.101
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf997c"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 762
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf997d"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 509
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf997e"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 807
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf997f"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 1.08
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9980"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 1.384
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9981"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 1.845
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9982"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 2.297
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9983"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 2.797
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9984"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 3.463
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9985"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 2.368
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9986"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 789
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9987"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 18.002
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9988"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 436
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9989"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 260
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf998a"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 404
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf998b"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 534
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf998c"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 631
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf998d"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 928
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf998e"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 1.445
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf998f"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 2.554
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9990"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 4.259
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9991"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 4.215
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9992"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Febrero",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 2.336
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9993"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 42.106
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9994"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 1.194
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9995"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 829
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9996"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 1.257
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9997"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 1.771
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9998"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 2.3
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf9999"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 3.276
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf999a"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 4.468
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf999b"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 6.301
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf999c"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 9.303
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf999d"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 7.585
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf999e"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 3.822
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf999f"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 21.323
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99a0"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 727
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99a1"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 545
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99a2"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 810
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99a3"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 1.164
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99a4"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 1.611
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99a5"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 2.176
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99a6"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 2.764
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99a7"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 3.364
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99a8"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 4.259
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99a9"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 2.865
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99aa"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 1.038
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ab"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 20.783
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ac"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 467
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ad"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 284
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ae"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 447
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99af"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 607
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99b0"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 689
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99b1"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 1.1
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99b2"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 1.704
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99b3"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 2.937
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99b4"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 5.044
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99b5"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 4.72
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99b6"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Marzo",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 2.784
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99b7"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 33.999
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99b8"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 967
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99b9"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 644
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ba"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 1.074
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99bb"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 1.402
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99bc"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 1.765
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99bd"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 2.546
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99be"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 3.383
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99bf"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 5.003
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99c0"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 7.48
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99c1"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 6.411
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99c2"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 3.324
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99c3"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 16.241
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99c4"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 620
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99c5"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 428
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99c6"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 676
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99c7"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 931
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99c8"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 1.181
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99c9"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 1.644
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ca"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 2.029
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99cb"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 2.517
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99cc"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 3.207
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99cd"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 2.216
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ce"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 792
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99cf"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 17.758
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99d0"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 347
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99d1"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 216
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99d2"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 398
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99d3"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 471
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99d4"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 584
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99d5"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 902
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99d6"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 1.354
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99d7"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 2.486
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99d8"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 4.273
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99d9"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 4.195
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99da"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Abril",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 2.532
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99db"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "Total",
+  "total": 30.441
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99dc"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 0 a 49 años",
+  "total": 1.057
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99dd"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 50 a 54 años",
+  "total": 736
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99de"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 55 a 59 años",
+  "total": 1.103
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99df"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 60 a 64 años",
+  "total": 1.503
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99e0"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 65 a 69 años",
+  "total": 1.793
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99e1"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 70 a 74 años",
+  "total": 2.481
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99e2"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 75 a 79 años",
+  "total": 3.24
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99e3"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 80 a 84 años",
+  "total": 4.407
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99e4"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 85 a 89 años",
+  "total": 6.463
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99e5"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "De 90 a 94 años",
+  "total": 5.263
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99e6"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Total",
+  "edad": "95 y más años",
+  "total": 2.395
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99e7"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "Total",
+  "total": 15.189
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99e8"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 0 a 49 años",
+  "total": 656
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99e9"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 50 a 54 años",
+  "total": 465
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ea"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 55 a 59 años",
+  "total": 724
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99eb"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 60 a 64 años",
+  "total": 996
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ec"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 65 a 69 años",
+  "total": 1.194
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ed"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 70 a 74 años",
+  "total": 1.631
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ee"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 75 a 79 años",
+  "total": 1.964
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99ef"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 80 a 84 años",
+  "total": 2.324
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99f0"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 85 a 89 años",
+  "total": 2.841
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99f1"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "De 90 a 94 años",
+  "total": 1.814
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99f2"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Hombres",
+  "edad": "95 y más años",
+  "total": 580
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99f3"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "Total",
+  "total": 15.252
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99f4"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 0 a 49 años",
+  "total": 401
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99f5"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 50 a 54 años",
+  "total": 271
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99f6"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 55 a 59 años",
+  "total": 379
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99f7"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 60 a 64 años",
+  "total": 507
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99f8"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 65 a 69 años",
+  "total": 599
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99f9"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 70 a 74 años",
+  "total": 850
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99fa"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 75 a 79 años",
+  "total": 1.276
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99fb"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 80 a 84 años",
+  "total": 2.083
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99fc"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 85 a 89 años",
+  "total": 3.622
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99fd"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "De 90 a 94 años",
+  "total": 3.449
+},{
+  "_id": {
+    "$oid": "60c0f48e69c54d1e4cdf99fe"
+  },
+  "covid19": "Otras causas",
+  "mes_defuncion": "Mayo",
+  "sexo": "Mujeres",
+  "edad": "95 y más años",
+  "total": 1.815
+}]

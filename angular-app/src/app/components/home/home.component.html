@@ -1,0 +1,92 @@
+<app-menu></app-menu>
+<div class="spinner" fxLayoutAlign="center center">
+    <mat-spinner *ngIf="waitH"></mat-spinner>
+</div>
+<div class="container">
+    <div class="deaths-container-table" [hidden]="wait">
+        <mat-card class="mat-elevation-z8">
+            <mat-card-header>
+                <mat-card-title>Muertes</mat-card-title>
+            </mat-card-header>
+            <mat-divider></mat-divider>
+            <mat-card-content>
+                
+                <mat-form-field appearance="outline">
+                    <mat-label>Filtrar</mat-label>
+                    <input matInput (keyup)="applyFilterD($event)" placeholder="Ex. " #input>
+                  </mat-form-field>
+               
+                <mat-table [dataSource]="deathsDataSource" class="mat-elevation-z8" matSort>
+                    <!-- Género -->
+                    <ng-container matColumnDef="sexo">
+                        <mat-header-cell *matHeaderCellDef mat-sort-header>Género</mat-header-cell>
+                        <mat-cell *matCellDef="let element"> {{element.sexo}}</mat-cell>
+                    </ng-container>
+                    <!-- Edad -->
+                    <ng-container matColumnDef="edad">
+                        <mat-header-cell *matHeaderCellDef mat-sort-header>Edad</mat-header-cell>
+                        <mat-cell *matCellDef="let element"> {{element.edad}}</mat-cell>
+                    </ng-container>
+                    <!-- Mes -->
+                    <ng-container matColumnDef="mes">
+                        <mat-header-cell *matHeaderCellDef mat-sort-header>Mes de defunción</mat-header-cell>
+                        <mat-cell *matCellDef="let element"> {{element.mes_defuncion}}</mat-cell>
+                    </ng-container>
+                    <!-- Total -->
+                    <ng-container matColumnDef="total">
+                        <mat-header-cell *matHeaderCellDef mat-sort-header>Total</mat-header-cell>
+                        <mat-cell *matCellDef="let element"> {{element.total | replaceNullWithText: 'No definido'}}</mat-cell>
+                    </ng-container>
+    
+                    <mat-header-row *matHeaderRowDef="deathsDisplayedColumns"></mat-header-row>
+                    <mat-row *matRowDef="let row; columns: deathsDisplayedColumns; "></mat-row>
+                </mat-table>
+                <mat-paginator #deathPaginator [pageSizeOptions]="[8, 16, 24, 100]"></mat-paginator>
+            </mat-card-content>
+        </mat-card>
+    </div>
+
+
+    <div class="health-zones-container-table" [hidden]="wait">
+        <mat-card class="mat-elevation-z8">
+            <mat-card-header>
+                <mat-card-title>Casos confirmados</mat-card-title>
+            </mat-card-header>
+            <mat-divider></mat-divider>
+            <mat-card-content>
+                
+                <mat-form-field appearance="outline">
+                    <mat-label>Filtrar</mat-label>
+                    <input matInput (keyup)="applyFilterH($event)" placeholder="Ex. " #input>
+                  </mat-form-field>
+               
+                <mat-table [dataSource]="healthZonesDataSource" class="mat-elevation-z8" matSort>
+                    <!-- Zona básica de salud -->
+                    <ng-container matColumnDef="zona_basica_salud">
+                        <mat-header-cell *matHeaderCellDef mat-sort-header>Zona básica de salud</mat-header-cell>
+                        <mat-cell *matCellDef="let element"> {{element.zona_basica_salud}}</mat-cell>
+                    </ng-container>
+                    <!-- Fecha del informe -->
+                    <ng-container matColumnDef="fecha_informe">
+                        <mat-header-cell *matHeaderCellDef mat-sort-header>Fecha del informe</mat-header-cell>
+                        <mat-cell *matCellDef="let element"> {{element.fecha_informe | date:'dd/MM/yyyy'}}</mat-cell>
+                    </ng-container>
+                    <!-- Casos confirmados totales -->
+                    <ng-container matColumnDef="casos_confirmados_totales">
+                        <mat-header-cell *matHeaderCellDef mat-sort-header>Casos confirmados totales</mat-header-cell>
+                        <mat-cell *matCellDef="let element"> {{element.casos_confirmados_totales | replaceNullWithText: 'No definido'}}</mat-cell>
+                    </ng-container>
+                    <!-- Tasa de incidencia acumulada total -->
+                    <ng-container matColumnDef="tasa_incidencia_acumulada_total">
+                        <mat-header-cell *matHeaderCellDef mat-sort-header>Tasa de incidencia acumulada total</mat-header-cell>
+                        <mat-cell *matCellDef="let element"> {{element.tasa_incidencia_acumulada_total | replaceNullWithText: 'No definido'}}</mat-cell>
+                    </ng-container>
+    
+                    <mat-header-row *matHeaderRowDef="healthZonesDisplayedColumns"></mat-header-row>
+                    <mat-row *matRowDef="let row; columns: healthZonesDisplayedColumns; "></mat-row>
+                </mat-table>
+                <mat-paginator #healthPaginator [pageSizeOptions]="[8, 16, 24, 100]"></mat-paginator>
+            </mat-card-content>
+        </mat-card>
+    </div>
+</div>

@@ -1,0 +1,30 @@
+<app-menu></app-menu>
+<div class="spinner" fxLayoutAlign="center center">
+    <mat-spinner *ngIf="wait"></mat-spinner>
+</div>
+<div class="container" [hidden]="wait">
+    <mat-accordion>
+        <mat-expansion-panel *ngFor="let item of pagedList">
+            <mat-expansion-panel-header class="panel-header">
+                <mat-panel-title>
+                    {{item.zona_basica_salud}}
+                    <div fxFlex></div>
+                </mat-panel-title>
+            </mat-expansion-panel-header>
+            <div class="health-zone-container" fxLayout="column">
+                <p><strong>Casos confirmados totales: </strong> {{item.casos_confirmados_totales | replaceNullWithText: 'No definido' }}</p>
+                <p><strong>Tasa de incidencia acumulada total: </strong> {{item.tasa_incidencia_acumulada_total | replaceNullWithText: 'No definido' }}</p>
+                <p><strong>Fecha del informe: </strong> {{item.fecha_informe | date:'dd/MM/yyyy'}}</p>
+            </div>
+            <div fxLayoutAlign="end">
+                <button mat-raised-button color="primary" [routerLink]="['/health-zones', item._id]">Editar</button>
+            </div>
+        </mat-expansion-panel>
+    </mat-accordion>
+
+    <mat-paginator [length]="length"
+              [pageSize]="11"
+              [pageSizeOptions]="[11, 22, 33]"
+              (page)="onPageChange($event)">
+    </mat-paginator>
+</div>
